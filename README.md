@@ -16,6 +16,7 @@ student_enrollment/
 │   ├── src/
         ├── App.js
 │   ├── public/
+        ├── index.html
 │   ├── package.json
 │   ├── Dockerfile
 ├── docker-compose.yml
