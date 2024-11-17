@@ -3,7 +3,7 @@
 Download and extract the entire project from the github onto your local PC.
 
 ##### Step 2:
-Now make sure inside the frontend folder install the supporting files for react framework and Change the content of App.js file with the student enrollment project file. 
+Now make sure inside the frontend folder install the supporting files for react framework and Change the content of App.js and also the index.html file with the student enrollment project file. 
 Organize the files like this.
 
 ```
