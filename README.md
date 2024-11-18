@@ -3,8 +3,7 @@
 Download and extract the entire project from the github onto your local PC.
 
 ##### Step 2:
-Now make sure inside the frontend folder install the supporting files for react framework and Change the content of App.js and also the index.html file with the student enrollment project file. 
-Organize the files like this.
+Now make sure inside the frontend folder the files are placed in their respective folders as per the below given structure.
 
 ```
 student_enrollment/
@@ -15,6 +14,12 @@ student_enrollment/
 ├── frontend/
 │   ├── src/
         ├── App.js
+        ├── App.css
+        ├── App.test.js
+        ├── index.css
+        ├── index.js
+        ├── reportWebVitals.js
+        ├── setupTests.js
 │   ├── public/
         ├── index.html
 │   ├── package.json
